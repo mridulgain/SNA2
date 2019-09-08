@@ -9,4 +9,4 @@ Following are required to run the code....
 ![](output/pdf.png)
 ![](output/log-log.png)
 
-*Read project report for more insights*
+*Here is the [project report](project%20report.pdf) for more insights*
